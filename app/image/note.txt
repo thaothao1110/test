@@ -1,0 +1,26 @@
+avera sans bold: nav menu 15px-46.08px
+nos lovings partners     .     Nous sommes     .     Notre Univers     .     Allez bouge-toi     .     La gazette     .     mon compte
+
+title_small:5b5950-15.88px-45.74px
+Nous sommes
+title_big:avera sans bold-24.82px-45.74px
+Fait main là-bas
+
+detail:helveticaNeue-14px-18px-5b5950
+Collections are created in limited series with a great respect of traditions
+Offers timeless artisanal creations, unique in their texture and 16 exclusive colors.
+
+title_small2-3:5b5950-16px-45.74px-helveticaneue
+Nous sommes
+title_big2:avera sans bold-25px-113.17px
+Fait main là-bas
+
+title_big5:avera sans bold-24.71px-113.03px
+Les gens de n°74
+detail:helveticaNeue-13.99px-17.99px-5b5950
+Collections are created in limited series with a great respect of traditions
+
+
+detail:helveticaNeue-14px-18px-5b5950
+Give me your hand and i'll hold it birdy
+helveticaNeue Light
